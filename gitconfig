@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = magedbgt@gmail.com
+	name = Maria Eugenia Deungaro Vezza
